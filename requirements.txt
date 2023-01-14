@@ -1,5 +1,5 @@
-Pyrogram
-TgCrypto
+Pyrogram==2.0.93
+tgCrypto
 aiohttp
 hurry.filesize
 python-dotenv
